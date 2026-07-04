@@ -29,7 +29,7 @@ Didn't find what you were looking for? Check out our other repos!
 
 ## 🎨 Art and Animation  
 
-### 2D Model  
+### **∟** 2D Model  
 - [Aseprite](https://www.aseprite.org/) -  A dedicated program for creating pixel art and animations.  
 - [Blender](https://www.blender.org/) -  Free and open-source 3D creation suite for modeling, animation, simulation, rendering, and more.  
 - [Canvas-Txt](https://canvas-txt.geongeorge.com/) -  Library for rendering multiline text on HTML5 Canvas.  
@@ -39,7 +39,8 @@ Didn't find what you were looking for? Check out our other repos!
 - [Krita](https://krita.org/en/) -  Free and open-source digital painting software.  
 - [Leshy Labs](https://www.leshylabs.com/apps/sstool/) -  HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases.  
 - [Map Editor](https://www.mapeditor.org/) -  Online map editor for creating tile-based maps.  
-- [Ogmo](https://ogmo-editor-3.github.io/) -  Open-source level editor focused on 2D games.  
+- [Ogmo](https://ogmo-editor-3.github.io/) -  Open-source level editor focused on 2D games.
+- [PikoPixel](http://twilightedge.com/mac/pikopixel/) -  Open source, easy-to-use application for drawing & editing pixel-art. (Mac,Linux,BSD)
 - [Piskel](https://www.piskelapp.com/) -  A free, web-based tool for creating pixel art and basic animations.  
 - [Pixel Art Converter ](https://www.pixelicious.xyz/) -  Online tool to convert images to pixel art.  
 - [Pixel Art Maker](https://pixelartmaker.com/) -  Online tool for creating pixel art, offering various features for pixel artists.  
@@ -55,7 +56,7 @@ Didn't find what you were looking for? Check out our other repos!
 - [Tile Setter](https://www.tilesetter.org/) -  Tool for creating tilesets and maps for games.  
 - [Tiled](https://www.mapeditor.org/) -  Open-source tile map editor for creating level maps in games.  
 
- ### 3D Model  
+ ### ⟀ 3D Model  
 - [ArmorPaint](https://armorpaint.org/) -  A free and open-source 3D sculpting software for creating game characters and models.  
 - [BoundingBoxSoftware](https://boundingboxsoftware.com/materialize/) -  A tool that lets you create game materials directly from images.  
 - [Clara.io](https://clara.io/) -  Web-based 3D modeling tool with cloud storage and collaboration features.  
@@ -65,8 +66,10 @@ Didn't find what you were looking for? Check out our other repos!
 - [TexturePacker](https://www.codeandweb.com/texturepacker) -  Software program for creating sprite sheets from individual images.  
 - [TinkerCard](https://www.tinkercad.com/things) -  Web-based platform for creating simple 3D models, often used for educational purposes.  
 
-## 🔊 Audio  
-- [Audacity](https://sourceforge.net/projects/audacity/) -  Open-source, full-featured audio editor for recording, editing, and analyzing sound.  
+## 🔊 Audio
+- [Audacity](https://sourceforge.net/projects/audacity/) -  Open-source, full-featured audio editor for recording, editing, and analyzing sound.
+- [Tenacity](https://tenacityaudio.org) -  Open-source, fork of Audacity, focus on stability & reliability (thus the name) ~ ([download latest stable](https://codeberg.org/tenacityteam/tenacity/releases/latest))
+- [Ardour](http://ardour.org/) -  A free and open source Digital Audio Workstation (DAW), suitable for recording, mixing and mastering.
 - [Audio Kinetic](https://www.audiokinetic.com/en/wwise/pricing/) -  Industry-standard middleware for implementing sound and music in games.  
 - [BeepBox](http://www.beepbox.co/) -  Web-based tool for creating chiptune music in the style of early video game consoles.  
 - [Cakewalk](https://www.bandlab.com/products/cakewalk?gad_source=1&gclid=CjwKCAjwgfm3BhBeEiwAFfxrG838DQnkGa4wkHCd9VfjVFD3E--4p_Iaz_4Gs7AGu39vLPY6HfwkfxoCitQQAvD_BwE) -  A free digital audio workstation (DAW) for creating and editing music and sound design for games.  
@@ -76,19 +79,29 @@ Didn't find what you were looking for? Check out our other repos!
 - [FamiStudio](https://famistudio.org/) -  Free program designed specifically for creating music for the NES.  
 - [FamiTracker](http://famitracker.com/) -  Free program for creating music specifically for the Nintendo Entertainment System (NES).  
 - [Flat.io](https://flat.io/) -  Website description unclear, may or may not offer royalty-free sound effects.  
-- [Fmod](https://www.fmod.com/) -  Another popular middleware solution for game audio development.  
+- [Fmod](https://www.fmod.com/) -  Another popular middleware solution for game audio development.
+- [Hydrogen](https://github.com/hydrogen-music/hydrogen) -  The advanced drum machine for Linux, macOS, and Windows. Free and open source.
 - [Jfxr](https://jfxr.frozenfractal.com/) -  Generate retro game sound effects with these online tools.  
 - [Jsfxr](https://sfxr.me/) -  Generate retro game sound effects with these online tools.  
-- [Konkat](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-8-player/?srsltid=AfmBOoqJyQlczOIOJih7eNLRZhSH9BCCkXe95xXPEVDb7exErzDNQc56) -  Free version of a powerful sampler instrument for creating and manipulating sounds (paid versions offer more features).  
+- [Konkat](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-8-player/?srsltid=AfmBOoqJyQlczOIOJih7eNLRZhSH9BCCkXe95xXPEVDb7exErzDNQc56) -  Free version of a powerful sampler instrument for creating and manipulating sounds (paid versions offer more features).
+- [LMMS](https://lmms.io) -  LMMS is a free, open source, multiplatform digital audio workstation. Produce music by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.
 - [MiniSoundEditor](https://xem.github.io/MiniSoundEditor/) -  Simple online audio editor for basic sound editing tasks.  
-- [NewGrounds](https://www.newgrounds.com/audio/) -  Online community known for games and animation, also features a section for royalty-free music submissions.  
+- [NewGrounds](https://www.newgrounds.com/audio/) -  Online community known for games and animation, also features a section for royalty-free music submissions.
+- [Qtractor](https://www.qtractor.org) -  An Audio/MIDI multi-track sequencer. Written in C++ & Qt for GNU/Linux Systems. Free and open source.
 - [Soundbox](https://sb.bitsnbites.eu/) -  Web-based tool for creating sound effects with a variety of options.  
 - [Unminus](https://www.unminus.com/) -  Provides royalty-free music with a focus on subscription plans for creators.  
 - [Waveform](https://www.tracktion.com/products/waveform-free) -  A free and powerful DAW from Tracktion, offering features for composing and editing music for games.  
 - [Waveform](https://www.tracktion.com/products/waveform-free) -  Free version of a popular DAW offering basic audio recording and editing capabilities.  
-- [YMCK](https://ymck.net/app/magical-8bit-plug-en) -  Free plug-in for creating chiptune music within other DAWs.  
+- [YMCK](https://ymck.net/app/magical-8bit-plug-en) -  Free plug-in for creating chiptune music within other DAWs.
+- [Yoshimi](https://yoshimi.sourceforge.io) -  Yoshimi is a software audio synthesizer, originally forked from ZynAddSubFX. Free and open source. Currently GNU/Linux only.
 - [Zapsplat](https://www.zapsplat.com/) -  A website offering free sound effects for use in your games and other creative projects.  
 - [ZzFX](https://killedbyapixel.github.io/ZzFX/) -  Tool for creating sound effects with a focus on retro and chiptune sounds.  
+
+## 📹 Video
+- [Constrict](https://apps.gnome.org/Constrict/) -  Compress videos to target sizes. Incredibly useful to make your game compact. GNU/Linux (GNOME) only.
+- [Kdenlive](https://kdenlive.org) -  Open source, non-linear video editing suite, by KDE.
+- [MediaInfo](https://mediaarea.net/en/MediaInfo) -  Open source tool to view technical and tag data for video and audio files. Reads Pictures and other files as well. (Set it to HTML output)
+- [OBS Studio](https://obsproject.com) - Open source, efficient recording and streaming of live video content.
 
 ## 🕹 Game Design  
 - [Architect of Games Youtube Playlist](https://www.youtube.com/playlist?list=PLihumf8cS6f7wgz61guuAWSh7e0U8byuT) -  Game design concepts and philosophies, learn the theory behind creating great games.  
@@ -188,8 +201,6 @@ Didn't find what you were looking for? Check out our other repos!
 - [Telerik Fiddler](https://www.telerik.com/fiddler-b) -  A web debugging proxy tool for inspecting HTTP(S) traffic between your computer and the internet. It allows analyzing requests and responses, modifying traffic data, and debugging web applications.  
 - [TestRail](https://www.testrail.com/) -  A test case management tool for planning, tracking, and executing test cases. It helps organize test suites, manage defects, and generate reports.  
 - [Xdebug](https://xdebug.org/) -  A PHP extension that allows debugging PHP code by stepping through executions, inspecting variables, and profiling performance.  
-
-###
 
 [//]: #Buttons
 <div align="center">
